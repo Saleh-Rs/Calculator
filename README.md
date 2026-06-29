@@ -30,3 +30,6 @@ The goal of this project was to practice Python programming, GUI development wit
 ```bash 
 python main.py
 ```
+
+# Author 
+Developed by Saleh Rs
