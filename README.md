@@ -31,5 +31,11 @@ The goal of this project was to practice Python programming, GUI development wit
 python main.py
 ```
 
+# Preview 
+
+<p align="center">
+<img src="images/preview.png"width="600">
+</p>
+
 # Author 
 Developed by Saleh Rs
